@@ -10,7 +10,6 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 ### Outcomes Based on Launch Date
 
 ![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
-
 * Based on my analysis of Kickstarter Campaigns in the Theater industry the best possible time to start a campaign would be in the months of May / June. 
 
 
