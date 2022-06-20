@@ -26,17 +26,17 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 * In conclusion, the data suggests the best time to start a kickstarter campaign is in the months of May and June
 
 * The analysis shows the most successful campaigns relative to launch date with a 67% and 65% success rate respectively 
   
 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 
 * Looking at our graphic after the $5,000 mark there becomes a 18% downward shift in success rate. Providng us with evidence that keeping our play under $5,000 would be beneficial. 
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
