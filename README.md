@@ -11,7 +11,7 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ![Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 * Based on my analysis of Kickstarter Campaigns in the Theater industry the best possible time to start a campaign would be in the months of May / June. 
-* Looking more broadly, the beggining of the summer months (May, June, July) have been the most promising in order to attain a successful campaign.
+* Looking more broadly, the beggining of the summer months (May, June, & July) have been the most promising in order to attain a successful campaign.
 
 
 ### Analysis of Outcomes Based on Goals
@@ -28,7 +28,14 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+* In conclusion, the data suggests the best time to start a kickstarter campaign is in the months of May and June
+
+* The analysis shows the most successful campaigns relative to launch date with a 67% and 65% success rate respectively 
+  
+
 - What can you conclude about the Outcomes based on Goals?
+
+* Looking at our graphic after the $5,000 mark there becomes a 18% downward shift in success rate. Providng us with evidence that keeping our play under $5,000 would be beneficial. 
 
 - What are some limitations of this dataset?
 
