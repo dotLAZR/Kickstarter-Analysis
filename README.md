@@ -13,6 +13,8 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
