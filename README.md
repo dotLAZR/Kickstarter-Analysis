@@ -9,7 +9,7 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ### Outcomes Based on Launch Date
 
-![Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
+![Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
