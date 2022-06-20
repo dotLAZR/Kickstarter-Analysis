@@ -18,7 +18,7 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ![Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
 
-* In the Analysis of the Outcomes based on Goals we found that plays under a total value of $5,000 have the best chance of being successful. 
+* In the Analysis of the Outcomes Based on Goals we found that plays under a total value of $5,000 have the best chance of being successfully funded. 
 
 ### Challenges and Difficulties Encountered
 
