@@ -22,6 +22,8 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ### Challenges and Difficulties Encountered
 
+* Some of the challenges faced with this project was keeping the data correctly. At one point in the process the ‘pledged’ column became mixed up which caused time being spent going back to fix it.
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
