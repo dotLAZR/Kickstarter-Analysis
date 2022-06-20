@@ -9,7 +9,7 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 ### Outcomes Based on Launch Date
 
-* Based on the current data of Kickstarter Campaigns filtered by "plays" 
+![Outcomes Based on Launch Date](./Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
