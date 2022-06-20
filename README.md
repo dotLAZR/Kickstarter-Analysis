@@ -1,13 +1,15 @@
 # Analysis of Kickstarter Campaigns
-Analysis of Kickstarter data to uncover patterns / trends
 
-## 
+Repositry Link: 
 
-### Purpose
+* Providing a complete analysis on various different kickstarter campaigns relative to to date they were launched as well as monetary goals. Allowing us to provide a statistical and concrete analysis to Louise on her own kickstarter campaign.
+
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Outcomes Based on Launch Date
+
+* Based on the current data of Kickstarter Campaigns filtered by "plays" 
 
 ### Analysis of Outcomes Based on Goals
 
