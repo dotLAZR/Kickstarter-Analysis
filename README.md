@@ -39,7 +39,7 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 #### What are some limitations of this dataset?
 
-* Looking at our data, some limitations seen are when considering out Outcomes based on Goals we see a shortage of data in the hogher end of the spectrum. We really can not make a statistical analysis on plays with a goal of $35,000 or more. 
+* Looking at our data, some limitations seen are when considering out Outcomes based on Goals we see a shortage of data in the higher end of the spectrum. We really cannot make a statistical analysis on plays with a goal of $35,000 or more. 
 
 #### What are some other possible tables and/or graphs that we could create?
 
