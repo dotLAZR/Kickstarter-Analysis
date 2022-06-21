@@ -39,4 +39,9 @@ Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 #### What are some limitations of this dataset?
 
+* Looking at our data, some limitations seen are when considering out Outcomes based on Goals we see a shortage of data in the hogher end of the spectrum. We really can not make a statistical analysis on plays with a goal of $35,000 or more. 
+
 #### What are some other possible tables and/or graphs that we could create?
+
+* Another graph that would display our analysis in an efficient manner would be a bar graph. A bar graph could display the goal to attain data. As well as another way to portray the outcomes based on launch date in a different manner. 
+ 
