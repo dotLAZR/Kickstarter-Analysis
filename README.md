@@ -1,6 +1,6 @@
 # Analysis of Kickstarter Campaigns
 
-Repositry Link: https://github.com/luis-zavalaa/kicksarter-analysis
+Repository Link: https://github.com/luis-zavalaa/kicksarter-analysis
 
 * Providing a complete analysis on various different kickstarter campaigns relative to to date they were launched as well as monetary goals. Allowing us to provide a statistical and concrete analysis to Louise on her own kickstarter campaign.
 
